@@ -8,3 +8,5 @@ matplotlib
 seaborn
 selenium
 webdriver-manager
+streamlit
+scikit-learn
